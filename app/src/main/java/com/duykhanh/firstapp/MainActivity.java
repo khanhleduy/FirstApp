@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void khanh(){
         Log.d("khanh", "khanh: ");
+        Log.e("d", "khanh: " );
     }
 }
